@@ -1,0 +1,45 @@
+<cfdi:Comprobante xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+xmlns:cfdi="http://www.sat.gob.mx/cfd/3" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd" 
+Version="3.3" 
+Folio="42431" 
+Fecha="2021-12-22T13:03:36" 
+FormaPago="28" 
+NoCertificado="00001000000509705024" 
+Certificado="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" 
+SubTotal="750.00" 
+Moneda="MXN" 
+Total="810.00" 
+TipoDeComprobante="I" 
+MetodoPago="PUE" 
+LugarExpedicion="22105" 
+Sello="Q2r4sbQVpOG2ILqrlKDKuSTgLvGqYLTQ5+rZsOfRq1sjDuW3TEyZq7G6r0XDuQ0nCBLq7/6k2COeeVt/lY7wTeFndzw2pOU89+h80kVgs3hKM95sDSk2WWculcn2U3GaxUQGJo5CeqZkQRxgXVkhVetz3fadZa7Dv+KT6oVgn/N00N9LrovRJp421Vz1+kBBiWEWrWfkYkT4eE7N3GwEGvAJkJbw4QIYuv7KU3nFhlUSyiKfSqEWzyQb41d5JHFZqwFAKFV78NnMFzmNfo4oU0JK/KbD54Bj/sXUFd/7DikTH9uYaLsPtSxTJRToRNzUZwZgSEQaNX3vDrE2J9749g==">
+
+    <cfdi:Emisor Rfc="SAGJ711113N36" Nombre="JUANA SAAVEDRA GOMEZ" RegimenFiscal="612" />
+    <cfdi:Receptor Rfc="IAGS880208LY0" Nombre="ISLAS GONZALEZ SOFIA GABRIELA" UsoCFDI="G03" />
+    <cfdi:Conceptos>
+        <cfdi:Concepto ClaveProdServ="31211604" NoIdentificacion="2605" Cantidad="3" ClaveUnidad="LTR" Unidad="PZ" Descripcion="GALONES THINNER AMERICANO" ValorUnitario="157.40" Importe="472.20">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="472.20" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.080000" Importe="37.776" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto ClaveProdServ="31211501" NoIdentificacion="2033" Cantidad="1" ClaveUnidad="LTR" Unidad="PZ" Descripcion="LITRO aCRILICO ORO" ValorUnitario="277.80" Importe="277.80">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="277.80" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.080000" Importe="22.224" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+    </cfdi:Conceptos>
+    <cfdi:Impuestos TotalImpuestosTrasladados="60.00">
+        <cfdi:Traslados>
+            <cfdi:Traslado Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.080000" Importe="60.00" />
+        </cfdi:Traslados>
+    </cfdi:Impuestos>
+    <cfdi:Complemento>
+        <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" RfcProvCertif="TSP080724QW6" Version="1.1" UUID="984A4809-18FB-4BA5-B131-C4DBAEB286B9" FechaTimbrado="2021-12-22T15:05:16" SelloCFD="Q2r4sbQVpOG2ILqrlKDKuSTgLvGqYLTQ5+rZsOfRq1sjDuW3TEyZq7G6r0XDuQ0nCBLq7/6k2COeeVt/lY7wTeFndzw2pOU89+h80kVgs3hKM95sDSk2WWculcn2U3GaxUQGJo5CeqZkQRxgXVkhVetz3fadZa7Dv+KT6oVgn/N00N9LrovRJp421Vz1+kBBiWEWrWfkYkT4eE7N3GwEGvAJkJbw4QIYuv7KU3nFhlUSyiKfSqEWzyQb41d5JHFZqwFAKFV78NnMFzmNfo4oU0JK/KbD54Bj/sXUFd/7DikTH9uYaLsPtSxTJRToRNzUZwZgSEQaNX3vDrE2J9749g==" NoCertificadoSAT="00001000000501960426" SelloSAT="lhmcVb1JnJ4YHVjvblT+defBcXzMen2aR9Vwewp5G5DywV7KoeFY2qYOTRz3/Z9riNA/7IvtskdqJtlIhnEsYKrFRfnWqig3Wm+Gl47IMBkur5RLZfRCrQKgGabeiTw0D+tPZBZCpkw8IilBDEmQW+ATQHz7wqPrBLpAqAq0oMNsp/ODGeV5F+WhTqXYDmiqyuq3Pk5MSkWcqppYW3QgFv6N8FiGNDnCWUUzrGlohH4Zigb0G5qp6xULgYPg98HOkIE+5xyc6YsKqNsg0b+eoN6Cf8ewUvQ9M+LpJRtHIVQFaMEOcaAzmsNhtUrnKOjbTy4q7isy1Z2WmzQv+ESvXA==" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" />
+    </cfdi:Complemento>
+</cfdi:Comprobante>
